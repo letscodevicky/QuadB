@@ -1,0 +1,8 @@
+body {
+  background-image: url("./css/bg2.jpg");
+  object-fit: cover;
+}
+.input-textbody {
+  width: 234px;
+  height: 100px;
+}
